@@ -401,9 +401,6 @@ function App() {
                 <h1 className="issue-title">{t.heroTitle}</h1>
                 <span className="hero-nickname">Asta</span>
               </Reveal>
-              <Reveal as="p" className="summary-label hero-intro-label" delay={0.16} distance={1.2}>
-                {t.summary.label}
-              </Reveal>
               <Reveal as="p" className="issue-description" delay={0.22} distance={1.4}>
                 {t.heroDescription}
               </Reveal>
