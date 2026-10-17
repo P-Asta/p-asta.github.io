@@ -220,7 +220,7 @@ export const translations: Record<Lang, Content> = {
     achievements: [
       {
         date: "2026.10.17",
-        title: "ISIF 국제대회 Engineering 트랙 금메달",
+        title: "ISIF 국제대회 Technology 트랙 금메달",
       },
       {
         date: "2026.08.28",
@@ -463,7 +463,7 @@ export const translations: Record<Lang, Content> = {
     achievements: [
       {
         date: "2026.10.17",
-        title: "ISIF International Competition, Engineering Track – Gold Medal",
+        title: "ISIF International Competition, Technology Track – Gold Medal",
       },
       {
         date: "2026.08.28",
